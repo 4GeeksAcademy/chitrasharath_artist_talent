@@ -1,4 +1,4 @@
-# HTML Hello
+# Artist Talent Website
 
 The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
 
